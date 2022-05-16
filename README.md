@@ -34,5 +34,29 @@ Trim the side of your arrays so that they can fit the PCE cartridge PCB (DO NOT 
 
 <img src="/images/1%20(6).jpg" width="500">
 
+You should have 2 very close pins due to the cut and the difference of pitch. 
+
+<img src="/images/1%20(7).jpg" width="500">
+
+Use your favorite clamp to bend them slightly so that you can nicely fit it to the the adapter PCB.
+
+<img src="/images/1%20(8).jpg" width="500">
+
+Solder all 42 pins on the top side of the adapter PCB
+
+<img src="/images/1%20(9).jpg" width="500">
+
+Trim the top of the soldered pins as short as possible
+
+<img src="/images/1%20(9-2).jpg" width="500">
+
+Repeat the process with the second adapter PCB and the Mobo of the PCE (and again remember to trim the soldered pins)
+
+<img src="/images/1%20(10).jpg" width="500">
+
+<img src="/images/1%20(11).jpg" width="500">
+
+<img src="/images/1%20(13).jpg" width="500">
+
 
 
