@@ -17,13 +17,15 @@ Second issue is that the new PCBs are facing each other when the shell is closed
 
 <b>INSTALLATION GUIDE</b>
 
-This is what the kit should look like 
+Step 1 is to remove the orgiginal ribbon cable and believe me this is the hardest part of the mod. Take your time and don't pull too hard, you don't want too pull a pad or a trace.
+
+Now get the kit. It should look like this (with an added piece of sticky foam. 
 
 <img src="/images/1%20(2).jpg" width="500">
 
 I suggest testing continuity now to make sure there was error when soldering the Molex connector:
 - Each PCB have 2 lines P101 and P102 and each line has 21 pins. 
-- With the ribbon cable in. Pin 101-1 on the mobo PCB should connect to Pin 101-1 on the catridge PCB and the same for the other 41 pins
+- With the ribbon cable in. Pin 101-1 on the mobo adapter PCB should have good contact with Pin 101-1 on the catridge adapter PCB and the same for the other 41 pins
 <img src="/images/1%20(3).jpg" width="500">
 
 Now cut 2 11 pins long array and 2 10 pins array like this:
