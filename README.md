@@ -13,11 +13,13 @@ Even though this is a relatively simple design the main challenge rest on the fa
 There is no magic solution but it's relatively easy to overcome the issue using standard 2.54 pin array and slightly trimming them.
 
 - PCBs contact<br />
-Second issue is that the new PCBs are facing each other when the shell is closed. There can be contacts between the pins on the cartridge connector and the motherboard. This can easily be fixed with a 0.6mm PCB, a good trim of the pin arrays and, to be absolutely safe, adding a layer of foam on the top or the bottom PCB.
+Second issue is that the new cartridge connector PCB is sitting right on top the PCE extention connector when shell is closed. There can be contacts. This can easily be fixed with a 0.6mm PCB, a good trim of the pin arrays and, to be absolutely safe, adding a layer of foam on the extension port.
+<img src="/images/1%20(15).jpg" width="500">
+
 
 <b>INSTALLATION GUIDE</b>
 
-Step 1 is to remove the orgiginal ribbon cable and believe me this is the hardest part of the mod. Take your time and don't pull too hard, you don't want too pull a pad or a trace.
+Step 1 is to remove the or                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               iginal ribbon cable and believe me this is the hardest part of the mod. Take your time and don't pull too hard, you don't want too pull a pad or a trace.
 
 Now get the kit. It should look like this (with an added piece of sticky foam. 
 
@@ -64,8 +66,8 @@ Repeat the process with the second adapter PCB and the Mobo of the PCE (and agai
 - Add the provided piece of foam to avoind contact between the PCBs
 - Connect the flat cable
 - It should now look like this:
+<img src="/images/1%20(15).jpg" width="500">
 
-
-Last step : Play Jackie Chan's Action Kung Fu for the next 20 years
+Last step : Play Jackie Chan's Action Kung Fu for the next 20 years.
 
 
