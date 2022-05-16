@@ -58,5 +58,12 @@ Repeat the process with the second adapter PCB and the Mobo of the PCE (and agai
 
 <img src="/images/1%20(13).jpg" width="500">
 
+- And Finally solder the bottom side of the PCB
+- Add the provided piece of foam to avoind contact between the PCBs
+- Connect the flat cable
+- It should now look like this:
+
+
+Last step : Play Jackie Chan's Action Kung Fu for the next 20 years
 
 
