@@ -17,4 +17,22 @@ Second issue is that the new PCBs are facing each other when the shell is closed
 
 <b>INSTALLATION GUIDE</b>
 
-  <i>Coming soon</i>
+This is what the kit should look like 
+
+<img src="/images/1%20(2).jpg" width="500">
+
+I suggest testing continuity now to make sure there was error when soldering the Molex connector:
+- Each PCB have 2 lines P101 and P102 and each line has 21 pins. 
+- With the ribbon cable in. Pin 101-1 on the mobo PCB should connect to Pin 101-1 on the catridge PCB and the same for the other 41 pins
+<img src="/images/1%20(3).jpg" width="500">
+
+Now cut 2 11 pins long array and 2 10 pins array like this:
+
+<img src="/images/1%20(5).jpg" width="500">
+
+Trim the side of your arrays so that they can fit the PCE cartridge PCB (DO NOT SOLDER IT AT THIS STAGE)
+
+<img src="/images/1%20(6).jpg" width="500">
+
+
+
