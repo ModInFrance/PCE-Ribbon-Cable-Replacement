@@ -1,7 +1,7 @@
 # PCE-Ribbon-Cable-Replacement
 A clean and simple solution to replace the massive ribbon cable in the PCE and Core Grafx.
 
-The Original PCE (white) and the 2 CoreFrafx (blue and orange) remain beautiful pieces pf hardware after all those years.
+The Original PCE (white) and the 2 CoreGrafx (blue and orange) remain beautiful pieces pf hardware after all those years.
 However they have one major imperfection: The card connector and the main PCB are connected by a huge ribbon cable. This Ribbon cable tends to oxidize and break like a sheet of paper when opening the console.
 
 This is why I created a replacement using two small PCBs and a single 45 pins FFC cable. The result is not only esthetically pleasing but also future proof.
