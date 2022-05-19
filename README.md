@@ -1,6 +1,8 @@
 # PCE-Ribbon-Cable-Replacement
 A clean and simple solution to replace the massive ribbon cable in the PCE and Core Grafx.
 
+This project is open source (please read the license). You can make your own or <a href="https://shop.modinfrance.fr/en/home/56-pc-engine-ribbon-cable-replacement.html" target="_blank">buy it from my store</a>.
+
 The Original PCE (white) and the 2 CoreGrafx (blue and orange) remain beautiful pieces pf hardware after all those years.
 However they have one major imperfection: The card connector and the main PCB are connected by a huge ribbon cable. This Ribbon cable tends to oxidize and break like a sheet of paper when opening the console.
 
