@@ -1,4 +1,4 @@
-# PCE-Ribbon-Cable-Replacement
+# PCE-Ribbon-Cable-Replacement V2
 A clean and simple solution to replace the massive ribbon cable in the PCE and Core Grafx.
 
 This project is open source (please read the license). You can make your own or <a href="https://shop.modinfrance.fr/en/home/56-pc-engine-ribbon-cable-replacement.html" target="_blank">buy it from my store</a>.
@@ -9,6 +9,11 @@ However they have one major imperfection: The card connector and the main PCB ar
 This is why I created a replacement using two small PCBs and a single 45 pins FFC cable. The result is not only esthetically pleasing but also future proof.
 
 <b>[UPDATE 12/01/2023]</b>
+<b><u>V2 is out with a much smaller, leaner design</u></b>
+
+<img src="/images/Nappe2.0 _ V2.png" width="500">
+
+<b><u>New pins - 2.5 mm</u></b>
 I had some new pin array produced especially for the project. 2.5 pitch, 21 pins, extremely short upper pin. It removes most of the issues below, including the need for an isolation foam and trimming the pins. This is dead cheap, so contact me if you need some!
 
 <img src="/images/20230112_115832.jpg" width="500">
