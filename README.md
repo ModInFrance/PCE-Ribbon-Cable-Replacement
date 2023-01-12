@@ -10,6 +10,7 @@ This is why I created a replacement using two small PCBs and a single 45 pins FF
 
 <b>[UPDATE 12/01/2023]</b>
 I had some new pin array produced especially for the project. 2.5 pitch, 21 pins, extremely short upper pin. It removes most of the issues below, including the need for an isolation foam and trimming the pins. This is dead cheap, so contact me if you need some!
+
 <img src="/images/20230112_115832.jpg" width="500">
 
 
