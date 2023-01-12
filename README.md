@@ -8,6 +8,9 @@ However they have one major imperfection: The card connector and the main PCB ar
 
 This is why I created a replacement using two small PCBs and a single 45 pins FFC cable. The result is not only esthetically pleasing but also future proof.
 
+[UPDATE 12/01/2023]
+I had some new pin array produced especially for the project. 2.5 pitch, 21 pins, extremely short upper pin. It removes most of the issues below, including the need for an isolation foam and trimming the pins. This is dead cheap, so contact me if you need some!
+
 <b>CHALLENGES AND LIMITS OF THE SOLUTION</b>
 
 - 2.5mm pitch<br />
